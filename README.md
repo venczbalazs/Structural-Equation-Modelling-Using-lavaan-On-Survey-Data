@@ -1,0 +1,2 @@
+# Structural-Equation-Modelling-Using-lavaan-On-Survey-Data
+ADD A DESCRIPTION:         12:43 PM      R scripts for analysing institutional trust in Germany, Hungary, and Poland using European Social Survey Round 11 data and lavaan. Includes data cleaning, weighted descriptive statistics, confirmatory factor analysis, measurement invariance tests, and multigroup SEM with and without control variables.
